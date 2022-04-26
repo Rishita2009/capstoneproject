@@ -1,0 +1,41 @@
+body
+{
+	background-image: linear-gradient( #7effd2, #aaaafe, #ffdfbb, rgb(213, 255, 155), #d3f1fb);
+}
+
+	.login_div1 , .login_div2
+	{
+		background-image: linear-gradient(#81e6ff, #8484ff, #ffc061, #f5a6ff, #7dffe1);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background-image: linear-gradient( #c9ff72, #ffbc50, #6dffaa, #a47dff, #ff79b6);
+border-radius: 10px;
+border-top: 10px solid #e5b5c4;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#logout
+{
+	font-size: 20px; float:right;
+}
